@@ -10,4 +10,5 @@ Make sure that all .py and all .csv files needs to be in the same directory:
 *	varaukset_klo_12.csv
 *	varaukset_klo_14.csv
 *	varaukset_klo_16.csv
+
 Run kayttajan_kayttoliittyma.py or yllapitajan_kayttoliittyma.py and follow the instructions.
